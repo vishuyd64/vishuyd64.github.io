@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500i,600,600i,700,700i,800,800i,900');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC');
+
+:root {
+    font-size: 16px;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background: url(wall2.jpg) no-repeat;	
+	background-size: cover;
+}
+
+.paragrap{
+	display: inline-block;
+    float: left;
+    color: white;
+    font-family: "Alegreya Sans SC", sans-serif;
+    padding: 5vw 5vw 5vw 0;
+    text-align: left;
+    margin-bottom: 2%;
+}
+
+.anything4{
+	background-color: orange;
+	padding: 8px,10px,16px,40px;
+}
+.anything1:hover{
+	background-color: gray;
+	
+}
+.anything2:hover{
+	background-color: gray;
+	
+}
+.anything3:hover{
+	background-color: gray;
+	
+}
+
+.liner{
+	background-color: orange;
+	height: 3px;
+}
+.jpeg{
+	
+  width: 250px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 5px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 2%;
+  color: white;
+ font-family: 'Century Gothic',sans-serif;
+}
+.jpeg-img{
+  cursor: pointer;
+	border: 1px solid black ;
+    border-radius: 9px;
+    box-shadow: 0px 3px 20px 2px #2c2c2c;
+    width: 10vw;
+	}
+	ul{
+  margin: 0;
+  padding: 0;
+}
+
+
+@media only screen and (max-width: 725px) {
+    .row {
+        flex-direction: column;
+    }
+    .jpeg {
+        order: -1;
+    }
+    .jpeg-img {
+        width: 60vw;
+    }
+}
+.jpeg li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.jpeg li a{
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  transition: all ease-in-out 250ms;
+}
+.jpeg li a:hover{
+  color: #b9b9b9;
+}
+.jpeg:hover{
+	color: #b9b9b9;
+}

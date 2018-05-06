@@ -1,0 +1,25 @@
+Q - Using Responsive Web Design that you have learnt in this level, you are required to
+create a single page website of your own which will serve as your portfolio. It should
+have the following sections at minimum -
+
+1) A section describing yourself with your photo. You are allowed to write anything
+about you including your hobbies etc.
+
+2) A section describing your interests in technologies. You can write names of all
+the technologies that you are interested in learning now and in future. You may
+use icons and images etc to make the view more appealing.
+
+3) A section describing your professional experience(if you have any) till now.
+
+4) A project section which contains all the web related work you have done till now
+(if you don’t have any, just mention this portfolio website itself that you are
+creating).
+
+
+Ans- Using responsive web design that i had learnt in this level, Here i was create a single page website which are serve as my portfolio.
+ here the following sections -
+
+1) A section describing myself with my photo.
+2) A section which describing profile.
+3) A section which are describing about me with interested technologies and also TECHNOLOGIES that i want to be learn.
+4) A section which describe contact us.
